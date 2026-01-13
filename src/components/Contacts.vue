@@ -75,7 +75,7 @@ import { ref, onMounted } from "vue";
 import { Notyf } from 'notyf';
 import 'notyf/notyf.min.css';
 
-const WEB3FORMS_ACCESS_KEY = "43e63b5f-1558-44cd-af15-84061fcffea4";
+const WEB3FORMS_ACCESS_KEY = "d3259b9b-d8b5-4e15-803a-0fc37e7a26e6";
 const name = ref("")
 const email = ref("")
 const message = ref("")
@@ -86,7 +86,7 @@ const isLoading = ref(false);
 const notyf = new Notyf();
 
 // configurations needed for the recaptcha
-const SITE_KEY = '6LeGSEksAAAAAE-VQS69XjwUZshEVzIMllktekx8'
+const SITE_KEY = '6LdnVUksAAAAAF2SPMN07TM0WVgMjNzXRn2aGTZm'
 const recaptchaContainer = ref(null);
 const recaptchaWidgetId = ref(null);
 const recaptchaToken = ref('');
