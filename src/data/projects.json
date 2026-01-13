@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce API Documentation",
+    "shortDesc": "API docs for a sample e-commerce platform.",
+    "description": "Detailed documentation covering endpoints for authentication, product management, and checkout workflow for a scalable e-commerce system.",
+    "image": "./images/e-com api.webp"
+  },
+  {
+    "id": 2,
+    "title": "Course Booking API Documentation",
+    "shortDesc": "Docs for a course booking API.",
+    "description": "Comprehensive documentation for endpoints handling course creation, enrollment, and scheduling, ensuring clarity for developers integrating the system.",
+    "image": "./images/e-book api.webp"
+  },
+  {
+    "id": 3,
+    "title": "Course Booking App",
+    "shortDesc": "Web app for booking online courses.",
+    "description": "An intuitive booking system where users can browse, enroll, and manage online courses. Built with a responsive UI and secure backend APIs.",
+    "image": "./images/e-book app.png"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce App",
+    "shortDesc": "Sample online shopping app.",
+    "description": "A demo e-commerce application with product listings, shopping cart, and secure checkout flow. Designed to showcase frontend and backend integration.",
+    "image": "./images/e-com app.webp"
+  },
+  {
+    "id": 5,
+    "title": "Airline Booking System Mockup",
+    "shortDesc": "UI design for flight booking.",
+    "description": "A static design mockup visualizing the flow of searching flights, selecting seats, and booking tickets. Focused on clean UI and user experience.",
+    "image": "./images/airline mockup.png"
+  },
+  {
+    "id": 6,
+    "title": "Airline Booking System Prototype",
+    "shortDesc": "Prototype of a flight booking app.",
+    "description": "A functional prototype showcasing user journey for searching flights, selecting seats, and completing bookings, with mock data and design system.",
+    "image": "./images/airline prototype.webp"
+  }
+]
