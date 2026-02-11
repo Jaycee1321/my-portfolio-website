@@ -19,12 +19,13 @@
 	                        My Projects
 	                    </a>
 	                    <ul class="dropdown-menu" aria-labelledby="navProjectdrop">
-	                        <li><a class="dropdown-item" href="#">E-commerce API Documentation</a></li>
-	                        <li><a class="dropdown-item" href="#">Course Booking API Documentation</a></li>
-	                        <li><a class="dropdown-item" href="#">Course Booking App</a></li>
-	                        <li><a class="dropdown-item" href="#">E-commerce App</a></li>
-	                        <li><a class="dropdown-item" href="#">Airline Booking System Mockup</a></li>
-	                        <li><a class="dropdown-item" href="#">Airline Booking System Prototype</a></li>
+	                        <li><a class="dropdown-item" href="#projects">E-commerce App</a></li>
+	                        <li><a class="dropdown-item" href="#projects">Wuxia E-Commerce</a></li>
+	                        <li><a class="dropdown-item" href="#projects">Course Booking App</a></li>
+	                        <li><a class="dropdown-item" href="#projects">Movie Catalog Application</a></li>
+	                        <li><a class="dropdown-item" href="#projects">Quackr Blog</a></li>
+	                        <li><a class="dropdown-item" href="#projects">Fitness Tracker</a></li>
+	                        <li><a class="dropdown-item" href="#projects">Job Tracker</a></li>
 	                    </ul>
 	                </li>
 	                

@@ -9,7 +9,7 @@
 	       <div class="col-md-4">
 	       	<a href="http://zuitt-bootcamp-prod-582-9211-lavaro.s3-website.us-east-1.amazonaws.com/" target="_blank">
 	         <div class="project-card">
-	           <img src="/images/e-com app.webp" alt="E-commerce App">
+	           <img src="/images/ZariZari.png" alt="E-commerce App">
 	           <div class="project-content">
 	             <h3>E-commerce App</h3>
 	             <p class="short-desc">Sample online shopping app.</p>
@@ -23,7 +23,7 @@
 	      <div class="col-md-4">
 	      	<a href="https://home-page-exam-mu.vercel.app/" target="_blank">
 	        <div class="project-card">
-	          <img src="/images/frontendEcommerce.png" alt="Wuxia-Themed E-Commerce">
+	          <img src="/images/Wuxia.png" alt="Wuxia-Themed E-Commerce">
 	          <div class="project-content">
 	            <h3>Wuxia E-Commerce</h3>
 	            <p class="short-desc">Static wuxia-themed online store.</p>
@@ -39,7 +39,7 @@
 	      <div class="col-md-4">
 	      	<a href="https://course-booking-roan.vercel.app/" target="_blank">
 	        <div class="project-card">
-	          <img src="/images/e-book app.png" alt="Course Booking App">
+	          <img src="/images/CourseBooking.png" alt="Course Booking App">
 	          <div class="project-content">
 	            <h3>Course Booking App</h3>
 	            <p class="short-desc">Web app for booking online courses.</p>
@@ -53,7 +53,7 @@
 	      <div class="col-md-4">
 	      	<a href="https://movie-app-eight-gules.vercel.app/" target="_blank">
 	        <div class="project-card">
-	          <img src="/images/movieApp.jpg" alt="Movie Catalog Application">
+	          <img src="/images/MovieApp.png" alt="Movie Catalog Application">
 	          <div class="project-content">
 	            <h3>Movie Catalog Application</h3>
 	            <p class="short-desc">Full-stack movie search and watchlist app.</p>
@@ -65,11 +65,29 @@
 	      	</a>
 	      </div>
 
+	      <!-- Project Card: Quackr Blog App -->
+	      <div class="col-md-4">
+	        <a href="https://blog-client-eosin-rho.vercel.app/" target="_blank">
+	          <div class="project-card">
+	            <img src="/images/BlogApp.png" alt="Quackr Blog App">
+	            <div class="project-content">
+	              <h3>Quackr Blog</h3>
+	              <p class="short-desc">A simple blogging platform.</p>
+	              <p class="long-desc">
+	                Full-stack MEVN blog application where users can create, read, update, and delete posts. 
+	                Built with Node.js, Express, and MongoDB for the backend, and Vue.js with Bootstrap for a clean and responsive UI. 
+	                Features include user authentication, post management, and comment functionality.
+	              </p>
+	            </div>
+	          </div>
+	        </a>
+	      </div>
+
 	      <!-- Project Card: Fitness Tracker -->
 	      <div class="col-md-4">
 	      	<a href="https://fitness-app-xi-pearl.vercel.app/" target="_blank">
 	        <div class="project-card">
-	          <img src="/images/fitnessApp.webp" alt="Fitness Tracker App">
+	          <img src="/images/FitnessTracker.png" alt="Fitness Tracker App">
 	          <div class="project-content">
 	            <h3>Fitness Tracker</h3>
 	            <p class="short-desc">Track workouts and monitor progress.</p>
@@ -83,9 +101,9 @@
 
 	      <!-- Project Card: Job Tracker -->
 	      <div class="col-md-4">
-	      	<a href="https://job-tracker-client-gold.vercel.app/login" target="_blank">
+	      	<a href="https://job-tracker-client-gold.vercel.app/" target="_blank">
 	        <div class="project-card">
-	          <img src="/images/jobApp.jpg" alt="Job Tracker App">
+	          <img src="/images/JobTracker.png" alt="Job Tracker App">
 	          <div class="project-content">
 	            <h3>Job Tracker</h3>
 	            <p class="short-desc">Manage job applications efficiently.</p>
