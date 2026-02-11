@@ -42,12 +42,12 @@
 	        <!-- Social Icons -->
 	        <div class="mt-4 d-flex gap-3">
 	          <!-- LinkedIn -->
-	          <a href="https://www.linkedin.com" target="_blank">
+	          <a href="https://www.linkedin.com/in/jc-lavaro-a06471382/" target="_blank">
 	            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
 	                 alt="LinkedIn" width="40" height="40">
 	          </a>
 	          <!-- GitHub -->
-	          <a href="https://github.com" target="_blank">
+	          <a href="https://github.com/Jaycee1321" target="_blank">
 	            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 	                 alt="GitHub" width="40" height="40">
 	          </a>
